@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="28" started-at="2019-11-20T05:43:25Z" finished-at="2019-11-20T05:43:25Z">
+  <suite name="Surefire suite" duration-ms="33" started-at="2019-11-20T05:52:35Z" finished-at="2019-11-20T05:52:35Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="28" started-at="2019-11-20T05:43:25Z" finished-at="2019-11-20T05:43:25Z">
+    <test name="Surefire test" duration-ms="33" started-at="2019-11-20T05:52:35Z" finished-at="2019-11-20T05:52:35Z">
       <class name="com.vogella.maven1.Add.AddMethodTest">
-        <test-method status="PASS" signature="TestCase1()[pri:0, instance:com.vogella.maven1.Add.AddMethodTest@7a5d012c]" name="TestCase1" duration-ms="16" started-at="2019-11-20T11:13:25Z" finished-at="2019-11-20T11:13:25Z">
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:com.vogella.maven1.Add.AddMethodTest@7a5d012c]" name="TestCase1" duration-ms="18" started-at="2019-11-20T11:22:35Z" finished-at="2019-11-20T11:22:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase1 -->
