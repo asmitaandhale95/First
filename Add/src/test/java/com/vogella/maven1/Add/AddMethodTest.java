@@ -20,7 +20,7 @@ public class AddMethodTest
 		int result = MyAdd.add(1,4);
 		if(result == 5)
 		{
-			finalResult = TestLinkAPIResults.TEST_PASSED;
+			//finalResult = TestLinkAPIResults.TEST_PASSED;
 			System.out.println("Test case pass");
 			//throw new ArithmeticException("MyAdd.add incorrect result");
 			
